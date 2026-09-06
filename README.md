@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 - ⚡ **Chromium-Powered Speed:** Leveraging Chromium's state-of-the-art V8 engine and Blink renderer.
 - 🗂️ **Multi-Tab Architecture:** Smooth, dynamic tab switching, creation, and management.
