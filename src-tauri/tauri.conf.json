@@ -1,8 +1,7 @@
 {
   "build": {
     "devPath": "../src",
-    "distDir": "../src",
-    "withGlobalObject": true
+    "distDir": "../src"
   },
   "package": {
     "productName": "Navegador Carlinho",
@@ -19,14 +18,17 @@
       "active": true,
       "category": "DeveloperTool",
       "copyright": "",
-      "deb": { "dependencies": [] },
       "externalBin": [],
       "icon": [],
       "identifier": "com.carlinho.browser",
       "resources": [],
       "shortDescription": "",
       "targets": "all",
-      "windows": { "certificateThumbprint": null, "digestAlgorithm": "sha256", "timestampUrl": "" }
+      "windows": {
+        "certificateThumbprint": null,
+        "digestAlgorithm": "sha256",
+        "timestampUrl": ""
+      }
     },
     "security": {
       "csp": "default-src 'self' https: http: data: blob: 'unsafe-inline' 'unsafe-eval'"
