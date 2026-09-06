@@ -32,6 +32,6 @@ browserFrame.addEventListener('load', () => {
     try {
         urlInput.value = browserFrame.contentWindow.location.href;
     } catch (err) {
-        // Ignora restrições de CORS de domínios externos cruzados
+
     }
 });
