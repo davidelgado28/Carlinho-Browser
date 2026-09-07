@@ -1,8 +1,0 @@
-{
-  "name": "carlinho-browser-mobile",
-  "private": true,
-  "version": "0.1.0",
-  "scripts": {"android":"react-native run-android","ios":"react-native run-ios","test":"jest"},
-  "dependencies": {"react":"^19.0.0","react-native":"^0.82.0","react-native-webview":"^13.16.0"},
-  "devDependencies": {"@react-native-community/cli":"^20.0.0","jest":"^30.0.0"}
-}
