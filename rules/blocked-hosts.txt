@@ -1,6 +1,0 @@
-# Seed only. Replace with a reviewed, licensed filter source.
-doubleclick.net
-googletagmanager.com
-google-analytics.com
-facebook.net
-connect.facebook.net
